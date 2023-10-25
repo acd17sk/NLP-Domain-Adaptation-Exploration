@@ -1,0 +1,2 @@
+,Accuracy,F1,Precision,Recall
+0,tensor(0.6800),tensor(0.6762),tensor(0.6800),tensor(0.6986)
